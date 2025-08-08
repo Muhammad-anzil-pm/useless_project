@@ -85,14 +85,14 @@ Funny Verdict: Display a humorous "expert rating" or verdict for the samosa afte
 Image Preview: Show a thumbnail of the user's uploaded image on the results screen to make the joke more convincing.
 Share Button: Add a button that copies a pre-written, funny message to the clipboard so users can easily share their "analysis" on social media.
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+# Screenshots
+![Screenshot1](images/samosa1.png)
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](images/samosa2.png)
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](images/samosa3.png)
 
 Made with ❤️ at TinkerHub Useless Projects 
 
