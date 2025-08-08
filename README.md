@@ -16,12 +16,12 @@
 Our calculator does the simple math to find the perfect angles for your samosa fold.
 This helps you create a strong, leak-proof triangle that holds its shape perfectly during frying.
 
-### The Problem (that doesn't exist)
+### The Problem 
 The Sad Samosa Spill 
 
 You know that frustrating moment. You've carefully folded your samosas, but the second they hit the hot oil, one of them bursts open. All that delicious filling you worked so hard on spills out, leaving you with a sad, greasy, and empty piece of dough.
 
-### The Solution (that nobody asked for)
+### The Solution
 A simple calculator that gives you the right angle for your samosa fold.
 
 It helps you make a strong little pocket that keeps all the yummy filling safely inside. Is it a bit nerdy? Yes. But does it give you a perfect, non-leaking samosa every time? Also yes
