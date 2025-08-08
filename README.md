@@ -48,7 +48,7 @@ The Samosa Angle Calculator is a fully client-side application built with HTML, 
 # Installation
 1. clone the repository:
 ```bash
-
+git clone https://github.com/Muhammad-anzil-pm/useless_project.git
  ```
 
 ### Project Documentation
